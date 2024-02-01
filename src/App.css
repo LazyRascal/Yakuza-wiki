@@ -1,2 +1,43 @@
 main {
 }
+
+a{
+    margin: 40px
+}
+.jicko{
+ position: relative;
+ font-size: 20px;
+ border-style: Solid;
+ border-color: maroon;
+ width: 30%;
+ bottom: 550px;
+ background-color: maroon;
+ font-weight: bold;
+}
+
+img {
+    border: 1px solid maroon;
+    border-radius: 4px;
+    padding: 5px;
+    width: 550px;
+    position: relative;
+    left: 800px;
+    Top: 200px;
+    width: 1000px;
+}
+
+.sicko{
+    position: relative;
+    font-size: 20px;
+    border-style: Solid;
+    border-color: maroon;
+    width: 50%;
+    bottom: 0px;
+    background-color: maroon;
+    font-weight: bold;
+   }
+
+.momey{
+    position: relative;
+    font-size: 200px;
+}
